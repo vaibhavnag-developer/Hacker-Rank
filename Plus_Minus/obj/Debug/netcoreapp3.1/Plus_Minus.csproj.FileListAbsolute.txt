@@ -1,0 +1,22 @@
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\bin\Debug\netcoreapp3.1\Plus_Minus.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Plus_Minus\obj\Debug\netcoreapp3.1\Plus_Minus.pdb

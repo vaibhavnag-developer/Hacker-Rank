@@ -1,0 +1,22 @@
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\bin\Debug\netcoreapp3.1\Staircase.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\bin\Debug\netcoreapp3.1\Staircase.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\bin\Debug\netcoreapp3.1\Staircase.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\bin\Debug\netcoreapp3.1\Staircase.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\obj\Debug\netcoreapp3.1\Staircase.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\obj\Debug\netcoreapp3.1\Staircase.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Staircase\obj\Debug\netcoreapp3.1\Staircase.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\bin\Debug\netcoreapp3.1\Staircase.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\bin\Debug\netcoreapp3.1\Staircase.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\bin\Debug\netcoreapp3.1\Staircase.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\bin\Debug\netcoreapp3.1\Staircase.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\bin\Debug\netcoreapp3.1\Staircase.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\obj\Debug\netcoreapp3.1\Staircase.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\obj\Debug\netcoreapp3.1\Staircase.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\obj\Debug\netcoreapp3.1\Staircase.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Staircase\obj\Debug\netcoreapp3.1\Staircase.pdb

@@ -1,0 +1,22 @@
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\bin\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Min_Max_Sum_of_N-1_numbers\obj\Debug\netcoreapp3.1\Min_Max_Sum_of_N-1_numbers.pdb

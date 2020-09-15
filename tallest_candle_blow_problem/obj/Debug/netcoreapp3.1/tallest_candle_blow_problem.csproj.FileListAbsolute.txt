@@ -1,0 +1,22 @@
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\bin\Debug\netcoreapp3.1\tallest_candle_blow_problem.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\tallest_candle_blow_problem\obj\Debug\netcoreapp3.1\tallest_candle_blow_problem.pdb

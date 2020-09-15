@@ -1,0 +1,22 @@
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\bin\Debug\netcoreapp3.1\Compare the Triplets.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.csprojAssemblyReference.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Compare the Triplets\obj\Debug\netcoreapp3.1\Compare the Triplets.pdb

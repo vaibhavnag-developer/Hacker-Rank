@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CheckEachDigitIsDivisor/1.0.0": {
+        "runtime": {
+          "CheckEachDigitIsDivisor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckEachDigitIsDivisor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

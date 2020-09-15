@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Min_Max_Sum_of_N-1_numbers/1.0.0": {
+        "runtime": {
+          "Min_Max_Sum_of_N-1_numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Min_Max_Sum_of_N-1_numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

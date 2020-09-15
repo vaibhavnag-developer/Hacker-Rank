@@ -1,0 +1,21 @@
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Compare the Triplets\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.exe
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.deps.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.runtimeconfig.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.runtimeconfig.dev.json
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\bin\Debug\netcoreapp3.1\Time Conversion.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.AssemblyInfoInputs.cache
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.AssemblyInfo.cs
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.dll
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.pdb
+C:\Vaibhav\Asp.Net project\Hacker Rank\Hacker Rank\Time Conversion\obj\Debug\netcoreapp3.1\Time Conversion.csprojAssemblyReference.cache
