@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\subArray\\subArray.csproj": {}
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\subArray\\subArray.csproj": {}
   },
   "projects": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\subArray\\subArray.csproj": {
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\subArray\\subArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\subArray\\subArray.csproj",
+        "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\subArray\\subArray.csproj",
         "projectName": "subArray",
-        "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\subArray\\subArray.csproj",
+        "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\subArray\\subArray.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\subArray\\obj\\",
+        "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\subArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

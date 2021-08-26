@@ -107,7 +107,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumDistances", "Minimum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepeatedString", "RepeatedString\RepeatedString.csproj", "{28D4639D-E1D2-45C3-8CC8-D38E091CB26A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortElement", "SortElement\SortElement.csproj", "{D2E0667B-E85F-4FBC-998F-3004EBD4EEE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortElement", "SortElement\SortElement.csproj", "{D2E0667B-E85F-4FBC-998F-3004EBD4EEE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

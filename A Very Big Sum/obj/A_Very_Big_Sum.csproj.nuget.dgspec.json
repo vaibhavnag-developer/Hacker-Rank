@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj": {}
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj": {}
   },
   "projects": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj": {
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj",
+        "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj",
         "projectName": "A_Very_Big_Sum",
-        "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj",
+        "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\A Very Big Sum\\A_Very_Big_Sum.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\A Very Big Sum\\obj\\",
+        "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\A Very Big Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

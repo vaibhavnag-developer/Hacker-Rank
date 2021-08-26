@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Plus_Minus\\Plus_Minus.csproj": {}
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Plus_Minus\\Plus_Minus.csproj": {}
   },
   "projects": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Plus_Minus\\Plus_Minus.csproj": {
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Plus_Minus\\Plus_Minus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Plus_Minus\\Plus_Minus.csproj",
+        "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Plus_Minus\\Plus_Minus.csproj",
         "projectName": "Plus_Minus",
-        "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Plus_Minus\\Plus_Minus.csproj",
+        "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Plus_Minus\\Plus_Minus.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Plus_Minus\\obj\\",
+        "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Plus_Minus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

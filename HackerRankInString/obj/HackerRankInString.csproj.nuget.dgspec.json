@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\HackerRankInString\\HackerRankInString.csproj": {}
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\HackerRankInString\\HackerRankInString.csproj": {}
   },
   "projects": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\HackerRankInString\\HackerRankInString.csproj": {
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\HackerRankInString\\HackerRankInString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\HackerRankInString\\HackerRankInString.csproj",
+        "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\HackerRankInString\\HackerRankInString.csproj",
         "projectName": "HackerRankInString",
-        "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\HackerRankInString\\HackerRankInString.csproj",
+        "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\HackerRankInString\\HackerRankInString.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\HackerRankInString\\obj\\",
+        "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\HackerRankInString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

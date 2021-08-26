@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj": {}
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj": {}
   },
   "projects": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj": {
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj",
+        "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj",
         "projectName": "CheckEachDigitIsDivisor",
-        "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj",
+        "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\CheckEachDigitIsDivisor\\CheckEachDigitIsDivisor.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\CheckEachDigitIsDivisor\\obj\\",
+        "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\CheckEachDigitIsDivisor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

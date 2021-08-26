@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Divisible_Sum_Pairs\\Divisible_Sum_Pairs.csproj",
+      "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Divisible_Sum_Pairs\\Divisible_Sum_Pairs.csproj",
       "projectName": "Divisible_Sum_Pairs",
-      "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Divisible_Sum_Pairs\\Divisible_Sum_Pairs.csproj",
+      "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Divisible_Sum_Pairs\\Divisible_Sum_Pairs.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Divisible_Sum_Pairs\\obj\\",
+      "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Divisible_Sum_Pairs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

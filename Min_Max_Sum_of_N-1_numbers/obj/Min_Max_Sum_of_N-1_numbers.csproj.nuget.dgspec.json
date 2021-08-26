@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj": {}
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj": {}
   },
   "projects": {
-    "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj": {
+    "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj",
+        "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj",
         "projectName": "Min_Max_Sum_of_N-1_numbers",
-        "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj",
+        "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Min_Max_Sum_of_N-1_numbers\\Min_Max_Sum_of_N-1_numbers.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\Min_Max_Sum_of_N-1_numbers\\obj\\",
+        "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\Min_Max_Sum_of_N-1_numbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

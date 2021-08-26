@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\ClimbingtheLeaderboard\\ClimbingtheLeaderboard.csproj",
+      "projectUniqueName": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\ClimbingtheLeaderboard\\ClimbingtheLeaderboard.csproj",
       "projectName": "ClimbingtheLeaderboard",
-      "projectPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\ClimbingtheLeaderboard\\ClimbingtheLeaderboard.csproj",
+      "projectPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\ClimbingtheLeaderboard\\ClimbingtheLeaderboard.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Vaibhav\\Asp.Net project\\Hacker Rank\\Hacker Rank\\ClimbingtheLeaderboard\\obj\\",
+      "outputPath": "D:\\Vaibhav\\Project\\Asp.Net project\\Hacker Rank\\Hacker-Rank\\ClimbingtheLeaderboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
